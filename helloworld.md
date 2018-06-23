@@ -2,8 +2,8 @@
     <head>
     </head>
 <body>
-    <div class="work"></div>
-    <div class="play"></div>
-    <div class="sleep"></div>
+    <div class="work">Work</div>
+    <div class="play">Play</div>
+    <div class="sleep">Sleep</div>
 </body>
 </html>
